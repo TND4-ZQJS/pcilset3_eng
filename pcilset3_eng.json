@@ -89,7 +89,7 @@
   },
   {
     "questionNumber": 9,
-    "question": "The insurer is dependent on the other party to disclose necessary information to decide whether to accept the risk or not in the formation of an insurance contract.",
+    "question": "The insurer is dependent on the other party to disclose necessary information __________ to decide whether to accept the risk or not in the formation of an insurance contract.",
     "options": {
       "A": "at the renewal stage",
       "B": "at the pre-contractual stage",
