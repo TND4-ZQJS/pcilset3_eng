@@ -1,221 +1,1102 @@
 [
   {
     "questionNumber": 1,
-    "question": "Which of the following is NOT an advantage provided by health and medical insurance?",
+    "question": "The first stage in Risk Management is",
     "options": {
-      "A": "Payment of an allowance.",
-      "B": "Reimbursement of medical expenses.",
-      "C": "Lump sum payment due to accidental death.",
-      "D": "Lump sum payment due to critical illness."
+      "A": "analysis",
+      "B": "control",
+      "C": "identification",
+      "D": "transfer"
     },
     "answer": ""
   },
   {
     "questionNumber": 2,
-    "question": "Please identify the benefits provided by the hospital and the surgical insurance contract.",
+    "question": "An individual will benefit from as a result of putting aside funds for old age after buying life insurance.",
     "options": {
-      "A": "Reimbursement of medical expenses.",
-      "B": "Lump sum reward upon diagnosis of critical illness.",
-      "C": "Allowance given for the period of disablement.",
-      "D": "Payment of the policy money on accidental death."
+      "A": "long life",
+      "B": "good health",
+      "C": "investment returns",
+      "D": "compelled savings"
     },
     "answer": ""
   },
   {
     "questionNumber": 3,
-    "question": "Below are all medical and health insurance products, EXCEPT",
+    "question": "Which of the following is the primary purpose of life and general insurance?",
     "options": {
-      "A": "Hospital & surgical insurance",
-      "B": "Disability Income insurance",
-      "C": "Dread disease insurance",
-      "D": "Total permanent disability income insurance"
+      "A": "Financial Protection",
+      "B": "Investment income",
+      "C": "Financial gain",
+      "D": "Saving for retirement"
     },
     "answer": ""
   },
   {
     "questionNumber": 4,
-    "question": "Which of the following criteria are normally applied when comparing investment-linked life insurance policies with traditional policies?\nI. Policy loan\nII. Option to top up\nIII. Premium computation\nIV. Investment return and risks",
+    "question": "The three functions of insurance which are interrelated are:",
     "options": {
-      "A": "I, II and III",
-      "B": "I, III and IV",
-      "C": "II, III and IV",
-      "D": "I, II, III and IV"
+      "A": "Identify, analyse and control of risk management.",
+      "B": "Risk transfer, equitable premiums and creation of common pool.",
+      "C": "Financial protection, cost stabilization and compelled savings.",
+      "D": "Retain, control and transfer of the identified risks."
     },
     "answer": ""
   },
   {
     "questionNumber": 5,
-    "question": "An investment-linked life insurance policy has a free-look period of days.",
+    "question": "Although rare, they still can be considered for insurance and are an exception to the Law of Large Numbers.",
     "options": {
-      "A": "11",
-      "B": "15",
-      "C": "18",
-      "D": "21"
+      "A": "Space satellites",
+      "B": "Interstate buses",
+      "C": "House on hill slopes",
+      "D": "Individual age 75 years old"
     },
     "answer": ""
   },
   {
     "questionNumber": 6,
-    "question": "A life policy with an acquired value provides special privileges such as non-forfeiture and paid-up policy provisions",
+    "question": "The role of a licensed financial adviser in the distribution of life insurance products is to",
     "options": {
-      "A": "cash",
-      "B": "cashless",
-      "C": "cash investment",
-      "D": "cash savings"
+      "A": "undertake marketing through banking institutions.",
+      "B": "provide independent advice on a whole range of insurance products.",
+      "C": "provide independent assessment and the pricing of risks to be insured.",
+      "D": "represent life insurance companies in the marketing of insurance products."
     },
     "answer": ""
   },
   {
     "questionNumber": 7,
-    "question": "Which of the following benefits is provided to the policy owner of a Critical Illness (CI) or Dread Disease Insurance?",
+    "question": "What is the difference between an insurance agent and insurance broker?",
     "options": {
-      "A": "Payment of an allowance on a daily, weekly or monthly basis.",
-      "B": "An income stream to replace the wages lost due to illness.",
-      "C": "The reimbursement of medical expenses incurred by the policy owner.",
-      "D": "A lump sum payment upon diagnosis of any of the (36) dread diseases."
+      "A": "An insurance agent represents the best interests of his clients whereas the insurance broker acts on behalf of the insurer.",
+      "B": "An insurance agent acts on behalf of the insurer to solicit new business whereas an insurance broker represents his client’s interest.",
+      "C": "An insurance agent is independent while an insurance broker is employed by an insurance company.",
+      "D": "An insurance agent receives commissions whereas an insurance broker is paid a brokerage fee by his customers."
     },
     "answer": ""
   },
   {
     "questionNumber": 8,
-    "question": "For continuity of coverage of renewable policies, the insurers shall NOT",
+    "question": "Which of the following is correct of “Risk Control”?",
     "options": {
-      "A": "reject the policy renewal",
-      "B": "renew the policy upon the renewal date",
-      "C": "unilaterally terminate the policy during the cover period",
-      "D": "refuse to increase the amount of cover due to certain material fact"
+      "A": "Minor loss can be retained by an organization.",
+      "B": "Risk can be prevented with the implementation of risk management.",
+      "C": "Risk of major losses can be mitigated with suitable disaster recovery plans.",
+      "D": "Risk can be avoided by not participating in the particular activity that gives rise to the risk."
     },
     "answer": ""
   },
   {
     "questionNumber": 9,
-    "question": "When insurance agent makes contact with the prospective policy owner, he should first identify himself and then the he represents.",
+    "question": "The insurer is dependent on the other party to disclose necessary information to decide whether to accept the risk or not in the formation of an insurance contract.",
     "options": {
-      "A": "agency office",
-      "B": "consultancy firm",
-      "C": "reinsurance company",
-      "D": "insurance company"
+      "A": "at the renewal stage",
+      "B": "at the pre-contractual stage",
+      "C": "at the time of making a claim",
+      "D": "during the coverage tenure of contract"
     },
     "answer": ""
   },
   {
     "questionNumber": 10,
-    "question": "Which of the following comprise prohibited business conduct for insurers as well as insurance agents?\nI. Persuading or attempting to persuade a consumer to dishonestly conceal, omit or provide materials fact ambitiously.\nII. Offering or assuming to act on behalf of an insurer in negotiating a policy\nIII. Making any statement, promise or comparison which is misleading\nIV. Carrying out any other act on behalf of an insurer in relation to issuance or renewal of a policy.",
+    "question": "__________ are the subject matter of insurance in a life or personal accident policy.",
     "options": {
-      "A": "I and III",
-      "B": "I and IV",
-      "C": "II and III",
-      "D": "II and IV"
+      "A": "Life and limb",
+      "B": "Funeral expenses",
+      "C": "Salaries and wages",
+      "D": "Medical cost and expenses"
     },
     "answer": ""
   },
   {
     "questionNumber": 11,
-    "question": "Age and gender are important factor in medical and health insurance and women have a higher rate of as compared to man.",
+    "question": "An individual complies with duty of disclosure under insurance contract by",
     "options": {
-      "A": "mobility",
-      "B": "morality",
-      "C": "mortality",
-      "D": "morbidity"
+      "A": "volunteering useful information pertaining to the risk.",
+      "B": "disclosing information that is of common knowledge.",
+      "C": "answering all questions in the proposal form faithfully.",
+      "D": "giving incomplete answers to specific questions in the proposal form."
     },
     "answer": ""
   },
   {
     "questionNumber": 12,
-    "question": "Guideline by BNM on Medical and Health Insurance Business, Product Transparency and Disclosure include:\nI. stronger access to healthcare via private insurance.\nII. increase competition among private health care companies\nIII. control costs and promote long-term sustainability of the private health insurance sector.\nIV. reduce mis-selling to financial consumer.",
+    "question": "A __________ policy is not a contract of indemnity.",
     "options": {
-      "A": "I and II",
-      "B": "I & III",
-      "C": "I, II & IV",
-      "D": "I,III & IV"
+      "A": "fire",
+      "B": "liability",
+      "C": "personal accident",
+      "D": "medical and health"
     },
     "answer": ""
   },
   {
     "questionNumber": 13,
-    "question": "In health insurance terminology, the term ‘deductible’ refers to;",
+    "question": "Regarding an assignee’s rights under an assignment, the following statement is true:",
     "options": {
-      "A": "Special payment arrangements made by the insurer with certain insured.",
-      "B": "The insurer has to pay a pre-agreed amount first before the balance of eligible expenses are reimbursed by policyholder.",
-      "C": "The agent have to pay a pre-agreed amount before the balance of eligible expenses are paid by insurer.",
-      "D": "The policyholder has to pay a pre-agreed amount before the balance of eligible expenses are reimbursed or paid by the insurer."
+      "A": "Some rights still remain with the assignor.",
+      "B": "The assignee has greater rights than the assignor.",
+      "C": "The assignee takes over the same rights as the assignor.",
+      "D": "Right of repudiation against the assignor will not apply to the assignee."
     },
     "answer": ""
   },
   {
     "questionNumber": 14,
-    "question": "Extra premium are charged for the following occupations, EXCEPT",
+    "question": "An insured is not required to disclose any fact that if the absence of any specific questions in proposal form.",
     "options": {
-      "A": "Car racing drivers",
-      "B": "Underground mine workers",
-      "C": "Clerks",
-      "D": "Sea divers"
+      "A": "increases the risk to the insurer",
+      "B": "diminishes the risk to the insurer",
+      "C": "affects insurer’s rating of the risk",
+      "D": "influences the decision in acceptance of the risk"
     },
     "answer": ""
   },
   {
     "questionNumber": 15,
-    "question": "If there has been a misrepresentation of age, which of the following measures could be adopted?",
+    "question": "Which of the following is true of subrogation?",
     "options": {
-      "A": "The policy will be cancelled and all premium paid will be refunded",
-      "B": "The policy will be cancelled and no premium will be refunded.",
-      "C": "If the age has been understated, the premium based on the true age will need to be paid with interest.",
-      "D": "If the age has been understated, the amount of money payable will be such sum as the premium paid will purchase according to the true age."
+      "A": "The insurer uses it primarily for losses paid under life insurance policies.",
+      "B": "The insurer is allowed to sue its own insured for negligence caused by him.",
+      "C": "The insurer is required to commence recovery action against its own insured.",
+      "D": "The insurer is required to exercise its subrogation rights in the insured’s name."
     },
     "answer": ""
   },
   {
     "questionNumber": 16,
-    "question": "What category of risk that an insured has been imposed on medical and health insurance with special terms, higher premium or limitations of coverage.",
+    "question": "__________ is NOT a money laundering activity.",
     "options": {
-      "A": "Standard risk",
-      "B": "Substandard risk",
-      "C": "Decline risk",
-      "D": "Special risk"
+      "A": "Layering",
+      "B": "Placement",
+      "C": "Integration",
+      "D": "Consolidation"
     },
     "answer": ""
   },
   {
     "questionNumber": 17,
-    "question": "_____ is NOT a method of policy limitation applied to hospital & surgical insurance policy in order to restrain the cost of claims.",
+    "question": "The role of Bank Negara Malaysia in the financial industry is to",
     "options": {
-      "A": "Deductibles",
-      "B": "Cost sharing",
-      "C": "Annual Limit",
-      "D": "‘As Charged’ basic."
+      "A": "enforce disciplinary action against the law-breaking agents.",
+      "B": "promote the sales and distribution of financial products.",
+      "C": "promote the financial stability to sustain economic growth.",
+      "D": "intervene in the administration of financial institution."
     },
     "answer": ""
   },
   {
     "questionNumber": 18,
-    "question": "The basic sum assured for single premium investment-linked life insurance is _____ of the single premium paid.",
+    "question": "The following are money laundering activities used by the criminals to hide illegal proceeds, EXCEPT:",
     "options": {
-      "A": "100%",
-      "B": "125%",
-      "C": "175%",
-      "D": "200%"
+      "A": "Layering",
+      "B": "Integration",
+      "C": "Placement",
+      "D": "Gambling"
     },
     "answer": ""
   },
   {
     "questionNumber": 19,
-    "question": "An insurance contract is a legally binding agreement between an insured and",
+    "question": "Insurers are regulated by BNM due to following reasons, EXCEPT:\nI. To liaise with the professional organizations in the insurance industry.\nII. To address the issue of insufficient insurance knowledge.\nIII. To offer insurance to the public.\nIV. To ensure insurer solvency and reasonable rates.",
     "options": {
-      "A": "agent",
-      "B": "insurer",
-      "C": "broker",
-      "D": "the government"
+      "A": "I and III",
+      "B": "I and IV",
+      "C": "II and III",
+      "D": "III and IV"
     },
     "answer": ""
   },
   {
     "questionNumber": 20,
-    "question": "Which one of the following will NOT terminate the policy?",
+    "question": "Which of the following is NOT the reason why insurance companies are regulated?",
     "options": {
-      "A": "Death of the life assured",
-      "B": "Missing of life assured for 4 years",
-      "C": "Exhaustion of the policy lifetime limit",
-      "D": "On the policy anniversary date following the life assured eligibility age"
+      "A": "Protect consumer.",
+      "B": "Promote financial stability.",
+      "C": "To ensure insurers are solvent.",
+      "D": "Spreading adequate insurance knowledge."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 21,
+    "question": "The possibility if a house being burnt down by fire is an example of risk.",
+    "options": {
+      "A": "Pure",
+      "B": "Speculative",
+      "C": "Moderate",
+      "D": "Subjective"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 22,
+    "question": "Which of the following is NOT a characteristic of insurable risk?",
+    "options": {
+      "A": "A large number of similar risks",
+      "B": "Insurable interest",
+      "C": "Reasonable Premium",
+      "D": "Illegal and against public policy"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 23,
+    "question": "During claims settlement, a life insurer may reject or delay a claim on",
+    "options": {
+      "A": "The grounds of non-disclosure or misrepresentation",
+      "B": "Late submission of accompanying documents",
+      "C": "A claim reported after the time limit for notification",
+      "D": "Non-payment of claim processing fees"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 24,
+    "question": "Gross premium is the combination of the following elements:\nI. Profit\nII. Management expenses and contingencies\nIII. Net Premium\nIV. Renewal expenses",
+    "options": {
+      "A": "I and II",
+      "B": "II and III",
+      "C": "I, II and III",
+      "D": "I, III and IV"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 25,
+    "question": "The shortfall between the basic sum assured and the account value is termed",
+    "options": {
+      "A": "Cost Value",
+      "B": "Risk Party",
+      "C": "Sum at Risk",
+      "D": "Yield"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 26,
+    "question": "Select the statement that is correct",
+    "options": {
+      "A": "Malaysians who contribute to the Employees Provident fund (EPF) are allowed to utilize a portion of the EPF account to invest in funds offered by",
+      "B": "If we want to compare single premium investment-linked (SP-IL) life insurance with unit trusts (UTs), we can find no differences at all between them",
+      "C": "The array of funds available for selection in the unit trust industry may generally be smaller than that offered by an insurance company",
+      "D": "Withdrawals from EPF may not be made on a regular basis"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 27,
+    "question": "Investment-linked policies normally consist of what kinds of funds?\nI. Cash fund\nII. Bond fund\nIII. Equity fund\nIV. Property fund",
+    "options": {
+      "A": "I and III",
+      "B": "I and IV",
+      "C": "III and IV",
+      "D": "I, II, III and IV"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 28,
+    "question": "The insured can file for an ‘objection to life policy' within 15 days of obtaining the policy. What is the name of this time period?",
+    "options": {
+      "A": "cooling-off period",
+      "B": "cancel period",
+      "C": "free to return period",
+      "D": "right to refund period"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 29,
+    "question": "Before the insurer cover the risk, what is the fundamental criteria under the life insurance contract is required?",
+    "options": {
+      "A": "duty of disclosure",
+      "B": "signing the proposal",
+      "C": "medical check up",
+      "D": "premium payment"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 30,
+    "question": "This policy pays a pre-agreed amount for each day the insured person is hospitalized:",
+    "options": {
+      "A": "Clinical insurance",
+      "B": "Medical expense insurance",
+      "C": "Hospital income insurance",
+      "D": "Disability income insurance"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 31,
+    "question": "Which of the following is NOT an option for the modification of medical and health policy benefits:",
+    "options": {
+      "A": "Imposition of a larger deductible",
+      "B": "Guaranteed renewal without premium review",
+      "C": "Reduction of the amount of benefit payable",
+      "D": "Shortening of the period of payment of disability income"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 32,
+    "question": "__________ is a legal contract creating a trust relationship whereby the insurer agrees to bind the actions of the agent with principal.",
+    "options": {
+      "A": "Agency by ratification",
+      "B": "Agency by agreement",
+      "C": "Agency by necessity",
+      "D": "Agency by filtered"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 33,
+    "question": "Agency by __________ is a relationship when an agency and principal relationship is formed retrospectively.",
+    "options": {
+      "A": "necessity",
+      "B": "ratification",
+      "C": "mandatory",
+      "D": "agreement"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 34,
+    "question": "What is the minimum age for a minor to take up life insurance on his own life or on the life of another in which he has insurable interest without the consent of his parents?",
+    "options": {
+      "A": "16 years",
+      "B": "17 years",
+      "C": "18 years",
+      "D": "21 years"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 35,
+    "question": "Identify the risk category under medical and health insurance that will be imposed special terms, higher premiums or limitations in coverage or both.",
+    "options": {
+      "A": "Special risk",
+      "B": "Standard risk",
+      "C": "Decline risk",
+      "D": "Sub-standard risk"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 36,
+    "question": "Although a life insurance policy has been in force for a period of more than (2) two years, the insurer can still contest the validity if:",
+    "options": {
+      "A": "The medical report from the doctor is misleading",
+      "B": "There is erroneous misrepresentation",
+      "C": "The statement made in the proposal form is inaccurate",
+      "D": "There is deliberate non-disclosure of a material fact"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 37,
+    "question": "Insurance brokers, financial advisors and registered adjusters are required to be incorporated as:",
+    "options": {
+      "A": "Private companies",
+      "B": "Public companies",
+      "C": "Unlimited companies",
+      "D": "Registered companies"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 38,
+    "question": "Insurance agencies in Malaysia are created through",
+    "options": {
+      "A": "implied agreement",
+      "B": "agency by ratification",
+      "C": "creation of agency necessity",
+      "D": "appointment by express agreement"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 39,
+    "question": "Agent is required to act of good faith dealing with an insurance company, which is NOT act of good faith",
+    "options": {
+      "A": "Reluctant to accept secret commission",
+      "B": "Not hiding any relevant information",
+      "C": "Acting for own personal interests at all times",
+      "D": "Maintaining confidentiality of customer data"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 40,
+    "question": "In addition to the agreed commissions, the principal must pay any expenses to the agent while performing his duties. This is the agent’s right to",
+    "options": {
+      "A": "Indemnity",
+      "B": "Contribution",
+      "C": "Remuneration",
+      "D": "Compensation"
+    },
+    "answer": ""
+  },
+  [
+  {
+    "questionNumber": 41,
+    "question": "The value of an investment-linked insurance policy",
+    "options": {
+      "A": "Guarantees a fixed return in investment",
+      "B": "Depends on the performance of the insurance company",
+      "C": "Fluctuates according to the value of the units the policy holds",
+      "D": "Depends on the country’s economic situation"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 42,
+    "question": "Accidental death benefit is a form of",
+    "options": {
+      "A": "Permanent benefit",
+      "B": "Bonus",
+      "C": "Basic benefit",
+      "D": "Supplementary benefit"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 43,
+    "question": "Following the death of the insured, a claimant must to begin the claim and pay-out process.",
+    "options": {
+      "A": "Make a police report",
+      "B": "Complete a claim form",
+      "C": "Submit the death certificate",
+      "D": "Notify the insurance company or agent"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 44,
+    "question": "The advantage of an investment-linked policy compared to other investment products available in the market is that it allows an individual to invest in",
+    "options": {
+      "A": "Multiple unit trust companies in Malaysia",
+      "B": "A diversified portfolio in the Malaysian and overseas market",
+      "C": "A diversified portfolio with a minimum of RM1,200 a year",
+      "D": "A guaranteed return investment"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 45,
+    "question": "An important consideration in the pricing of life insurance premiums is the insurer’s ability to pay management expenses which comprise",
+    "options": {
+      "A": "Staff salaries and agents’ commissions",
+      "B": "Advertising and branding costs",
+      "C": "Office maintenance charges",
+      "D": "Corporate tax and levies"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 46,
+    "question": "The following is a consequence of replacing a policy of the same type:",
+    "options": {
+      "A": "The insured will enjoy a lower premium",
+      "B": "The new policy will provide better benefits to the policy owner",
+      "C": "The new policy will be an improved one and be cheaper, benefiting the policy owner",
+      "D": "Any replacement of the same type of policy will be at a higher premium rate as the insured’s age will have increased"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 47,
+    "question": "The following can be used as proof of death, EXCEPT;",
+    "options": {
+      "A": "Identity card",
+      "B": "The coroner’s report",
+      "C": "An order pronouncing a statutory presumption of death",
+      "D": "Death certificate"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 48,
+    "question": "What is a true statement of fixed deposits",
+    "options": {
+      "A": "They are guaranteed by the government",
+      "B": "The shorter the period, the higher the return",
+      "C": "The longer the period, the higher the return",
+      "D": "They are only issued with the government’s approval"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 49,
+    "question": "What type of cover can be extended under a hospital and surgical insurance policy with the payment of additional premium",
+    "options": {
+      "A": "Life insurance",
+      "B": "Disability income",
+      "C": "Overseas cover",
+      "D": "Mental disorder"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 50,
+    "question": "An agent is prohibited from, “engaging in conduct that is misleading or deceptive, or is likely to mislead or deceive in relation to the nature, features, terms or price of any financial service or product.”",
+    "options": {
+      "A": "Schedule 7 of the Financial Services Act 2013",
+      "B": "Schedule 8 of the Financial Services Act 2013",
+      "C": "Schedule 10 of the Financial Services Act 2013",
+      "D": "Schedule 11 of the Financial Services Act 2013"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 51,
+    "question": "Which of the following is correct?",
+    "options": {
+      "A": "Debenture stock - The company has an option not to repay the debenture stocks earlier.",
+      "B": "Convertible Stocks - The decision to convert depends on whether capital appreciation & dividend income in share price are better than the fixed interest given.",
+      "C": "Loan Stocks - If the company defaults, the investor has all the collateral and thus is in a better position compared to other unsecured creditors of company.",
+      "D": "Treasury Bills - The main difference between government bonds and treasury bills is the tenure. Treasury bill are issued with a maturity of longer tenure compared to bonds."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 52,
+    "question": "_____ is a type of fixed income securities",
+    "options": {
+      "A": "Stocks",
+      "B": "Warrant Shares",
+      "C": "Ordinary Shares",
+      "D": "Preference Shares"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 53,
+    "question": "“The investor may convert investment from a fixed interest loan to being part-owner who is then entitled to a share of the company’s profit through dividends declared.” This refers to _____ stocks.",
+    "options": {
+      "A": "Convertible",
+      "B": "Debenture",
+      "C": "Ordinary",
+      "D": "Loan"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 54,
+    "question": "Insurance deals with fortuitous losses which are;",
+    "options": {
+      "A": "Physical hazards",
+      "B": "Intentionally damage",
+      "C": "Accidental and unintentional losses",
+      "D": "Risks, the severity which is within the control of the insured person"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 55,
+    "question": "Property which is partially saved from a loss or damage is called;",
+    "options": {
+      "A": "Left over",
+      "B": "Salvage",
+      "C": "Constructive loss",
+      "D": "Partial loss goods"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 56,
+    "question": "This is a method of passing on to the policyholders some of the benefits of unrealized capital appreciation of ordinary shares and property holding of the company;",
+    "options": {
+      "A": "Cash bonus",
+      "B": "Terminal bonus",
+      "C": "Interim bonus",
+      "D": "Guarantee bonus"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 57,
+    "question": "Identify the list of investments that is arranged in the order of lowest risk to highest risk.",
+    "options": {
+      "A": "Equity funds, derivative funds, property funds",
+      "B": "Derivative funds, equity funds, property funds",
+      "C": "Equity funds, property funds, derivative funds",
+      "D": "Property funds, equity funds, derivative funds"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 58,
+    "question": "People usually invest for the following objectives:\nI. Providing child education funds\nII. Delaying retirement age\nIII. Hedging inflation\nIV. Liabilities cancellation",
+    "options": {
+      "A": "I, II & III",
+      "B": "I, III & IV",
+      "C": "II, III & IV",
+      "D": "All of above"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 59,
+    "question": "Mr. A wants to give up his policy. The insurer will determine the value of the surrender\nI. In accordance with premiums paid principles.\nII. In compliance with standards business conduct.\nIII. In a way that ensuring treatment for the customer fairly.\nIV. In accordance with generally accepted actuarial principles.",
+    "options": {
+      "A": "II, III & IV",
+      "B": "I, III & IV",
+      "C": "I, II & IV",
+      "D": "I, II & III"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 60,
+    "question": "A single person in his twenties has invested solely in bonds or a 70 years old man is found to own very aggressive funds, it shows that",
+    "options": {
+      "A": "The single person is risk averse",
+      "B": "The 70 years old is not risk averse",
+      "C": "Risk profiling exercise may not have been conducted",
+      "D": "Older people are more aggressive in their investment strategy"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 61,
+    "question": "Policy owners of an investment-linked policy have the right to increase the sum assured, subject to underwriting approval.",
+    "options": {
+      "A": "without requiring a medical check-up",
+      "B": "with a corresponding increase in annual premium",
+      "C": "without a corresponding increase in annual premium",
+      "D": "with slight adjustment in the existing regular premium structure"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 62,
+    "question": "The primary purpose of life insurance is to provide for dependents.",
+    "options": {
+      "A": "credit facility",
+      "B": "medical expenses",
+      "C": "financial protection",
+      "D": "emotional protection"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 63,
+    "question": "_________ insurance is the earliest and simplest form of life insurance for fixed term or period.",
+    "options": {
+      "A": "Term",
+      "B": "Whole life",
+      "C": "Endowment",
+      "D": "Investment-linked"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 64,
+    "question": "Policy owners are relieved the daily administration of their investment portfolio which can be a perplexed issue. They just have to monitor of their investment through ________.",
+    "options": {
+      "A": "insurance agent",
+      "B": "branch office of an insurance company",
+      "C": "the relationship manager of an insurance company",
+      "D": "the unit statements provided regularly by insurance company"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 65,
+    "question": "If a policy owner makes top-ups on a single premium investment-linked policy.",
+    "options": {
+      "A": "each top-up will increase the amount of coverage by 125%.",
+      "B": "each top-up will be used to purchase unit.",
+      "C": "each top-up will be calculated as bonus units.",
+      "D": "The charge for each top-up will be 5% and the balance will be used to purchase units in selected funds."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 66,
+    "question": "Select the correct statement.",
+    "options": {
+      "A": "Traditional insurance products offer a better investment return.",
+      "B": "Traditional insurance products are more transparent and flexible.",
+      "C": "Investment-linked insurance products cater for more flexibilities and transparencies.",
+      "D": "Investment-linked insurance products offer a guaranteed return on investment"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 67,
+    "question": "An insurance agent who solicits or negotiates a contract of insurance should NOT:",
+    "options": {
+      "A": "Treat all information supplied by the prospective policyholder in confidential.",
+      "B": "Discourage the prospective policyholder from stating material facts to insurer.",
+      "C": "Give advice only on insurance matter in which he is knowledgeable and seek specialist advice if necessary.",
+      "D": "Ensure as far as possible the proposed policy meets the need of prospective policyholder."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 68,
+    "question": "The common health insurer underwriting decision are:",
+    "options": {
+      "A": "Standard, declined, postponed",
+      "B": "Standard, declined, sub-standard",
+      "C": "Standard, postponed, change plan",
+      "D": "Standard, postponed, substandard"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 69,
+    "question": "With regard to personal accident claims arising from supplementary contracts to life insurance, insurers apply the doctrine of ________ to establish the death or disability caused by accident, especially there were more than one concurrent cause.",
+    "options": {
+      "A": "Subrogation",
+      "B": "Contribution",
+      "C": "Proximate cause",
+      "D": "Indemnity"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 70,
+    "question": "A life insurer can handle anti selection of risks by ________.",
+    "options": {
+      "A": "referring the potential client to other insured",
+      "B": "rejecting the potential client with no questions asked",
+      "C": "proposing additional life policies to be taken up",
+      "D": "reducing the death benefit or sum assured but on standard rates and premium"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 71,
+    "question": "In respect of Customer Due Diligence under the Anti Money Laundering and Counter Financing of Terrorism compliance guidelines, insurers must ________.",
+    "options": {
+      "A": "submit a report on any suspicious transaction to BNM.",
+      "B": "report all cash transactions exceeding RM50,000 to BNM.",
+      "C": "implement risk management commensurate with the level of money laundering and terrorism financing risks.",
+      "D": "verify and be satisfied with the identity of the customer or beneficial owner through reliable documentation when establishing business relationship."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 72,
+    "question": "What is an insurance contract?",
+    "options": {
+      "A": "a promise by an insurer to pay a fixed sum of money.",
+      "B": "an agreement to protect the well-being of an insured person.",
+      "C": "a guarantee by an insurer to insure all types of risks.",
+      "D": "a legally binding agreement between an insured and the insurer."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 73,
+    "question": "The ________ is the ‘consideration’ given by an insured in return for insurance coverage.",
+    "options": {
+      "A": "Policy",
+      "B": "Premium",
+      "C": "Proposal",
+      "D": "Promise"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 74,
+    "question": "Exclusions are incorporated into policy for many reasons, EXCEPT:",
+    "options": {
+      "A": "the risks are uninsurable.",
+      "B": "the cover is not demanded by the insured.",
+      "C": "the insurer requires extra premium for such cover.",
+      "D": "cover can be provided under more appropriate policies."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 75,
+    "question": "The ________ of an insurance contract contains the insured’s particulars, details of the risk and subject matter.",
+    "options": {
+      "A": "policy cover",
+      "B": "policy conditions",
+      "C": "policy schedule",
+      "D": "policy exclusions"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 76,
+    "question": "\"________ before assumption of risk of the insurer\" is a fundamental condition of a life insurance contract.",
+    "options": {
+      "A": "duty of disclosure",
+      "B": "payment of premium",
+      "C": "medical examination",
+      "D": "signing the proposal"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 77,
+    "question": "Insurance agencies in Malaysia are created only through appointment by",
+    "options": {
+      "A": "a verbal agreement",
+      "B": "an express agreement",
+      "C": "a implied agreement",
+      "D": "a standard agreement"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 78,
+    "question": "Apparent or ostensible authority of an agent can arise through",
+    "options": {
+      "A": "the explicit instruction of the principal.",
+      "B": "the apparent agent never being appointed at all.",
+      "C": "instructions forming part of the agency agreement.",
+      "D": "acts which are usually performed by persons in the agent’s position."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 79,
+    "question": "A contract of agency is NOT allowed to be terminated",
+    "options": {
+      "A": "upon the expiry of the contract period.",
+      "B": "by the notice of revocation by the principal.",
+      "C": "by the agent giving notice of temporary absence.",
+      "D": "by operation of a law that renders the contract illegal."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 80,
+    "question": "As stipulated under Schedule of the Financial Services Act 2013, an agent is prohibited from, “engaging in conduct that is misleading or deceptive, or is likely to mislead or deceive in relation to the nature, features, terms of any financial service or product”.",
+    "options": {
+      "A": "7",
+      "B": "9",
+      "C": "10",
+      "D": "12"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 81,
+    "question": "A principal may terminate an agency by giving one of the following notices the agent EXCEPT:",
+    "options": {
+      "A": "extension",
+      "B": "revocation",
+      "C": "completion",
+      "D": "renunciation"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 82,
+    "question": "_____ refers to the fixed amount the policyholder of a Medical and Health Insurance (MHI) must pay regardless of the total cost if an eligible benefit.",
+    "options": {
+      "A": "Deductible",
+      "B": "Cost-sharing",
+      "C": "First Expenses",
+      "D": "Minimum Cost"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 83,
+    "question": "Employers provide health care benefits to their employees which normally comprise an essential part of the remuneration package by",
+    "options": {
+      "A": "arranging a group term life insurance policy.",
+      "B": "arranging a group savings scheme for retirement.",
+      "C": "arranging a group personal accident insurance policy.",
+      "D": "arranging a group medical and health insurance policy."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 84,
+    "question": "The followings are medical and health insurance product, EXCEPT:",
+    "options": {
+      "A": "Disability Income insurance",
+      "B": "Hospital and surgical insurance",
+      "C": "Permanent disability income insurance",
+      "D": "Critical illness or dread disease insurance"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 85,
+    "question": "Which of the following methods is NOT used by insurance company when dealing with sub-standard lives?",
+    "options": {
+      "A": "Charging extra premium",
+      "B": "Offering a premium discount",
+      "C": "Provide alternative form of contract",
+      "D": "Imposing a contingent debt or a lien"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 86,
+    "question": "BNM has issued Guidelines on Medical and Health Insurance Business, and Guidelines on Product Transparency and Disclosure to I. Increase competition among private health care providers. II. Reduce mis-selling to consumers. III. Enhance access to healthcare through private insurance. IV. Contain costs to promote long-term sustainability of the private health insurance sector.",
+    "options": {
+      "A": "I and III",
+      "B": "III and IV",
+      "C": "I, II and III",
+      "D": "II, III and IV"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 87,
+    "question": "Benefit Limitation are modifications to medical card and health insurance coverage. The following limitation does NOT fall in this category.",
+    "options": {
+      "A": "Reduction of the amount of benefit payable.",
+      "B": "Shortening of the payment period of disability income.",
+      "C": "Option to reduce coverage at the time of a claim.",
+      "D": "Imposition of a larger deductible on a medical expense."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 88,
+    "question": "The maximum amount of disability income that can be purchased under a disability income insurance policy is _____ of occupational earnings.",
+    "options": {
+      "A": "50-60%",
+      "B": "60-70%",
+      "C": "70-80%",
+      "D": "80-90%"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 89,
+    "question": "Modification to medical and health insurance coverage where the amount of benefit is reduced or the period disability income is shortened or a larger deductible is imposed for high risk individuals is termed",
+    "options": {
+      "A": "cover restrictions",
+      "B": "benefit limitations",
+      "C": "exclusion endorsement",
+      "D": "extra premium or loading"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 90,
+    "question": "A hospital and surgical insurance (HSI) policy can be extended to include the below benefits with extra premium, EXCEPT:",
+    "options": {
+      "A": "cosmetic surgery",
+      "B": "organ transplant",
+      "C": "accidental death benefit",
+      "D": "insured child’s daily guardian allowance"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 91,
+    "question": "_____ is one of the options available under the non-forfeiture condition in a life insurance policy.",
+    "options": {
+      "A": "End the cover provided",
+      "B": "Hold the cover provided",
+      "C": "Shorten the period of cover",
+      "D": "Convert to a free policy for life"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 92,
+    "question": "Linda arranges a group life insurance policy for a person. She can be violating the disclosure requirement if she",
+    "options": {
+      "A": "show her identity card to the person.",
+      "B": "informs the person of the premium payable.",
+      "C": "discloses the name of the licensed insurer.",
+      "D": "does not reveal her relationship with the insurer."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 93,
+    "question": "If the group policy owner has no insurable interest on the life of the persons insured, an insurer should pay the monies due under the group policy directly to",
+    "options": {
+      "A": "unclaimed monies.",
+      "B": "the person insured.",
+      "C": "the employer of the insured person.",
+      "D": "the intermediary who arranged the policy."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 94,
+    "question": "Choose one of the non-forfeiture condition options available in a life insurance policy.",
+    "options": {
+      "A": "Lengthening the duration of the cover period.",
+      "B": "Conversion to a paid-up policy.",
+      "C": "Stop cover policy.",
+      "D": "Hold cover policy."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 95,
+    "question": "What is the best option if the policy owner is not able to pay future premium and his life policy provides for surrender value?",
+    "options": {
+      "A": "Apply for policy loan",
+      "B": "Convert to a term policy",
+      "C": "Apply for premium exemption",
+      "D": "Convert to a paid-up policy."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 96,
+    "question": "The non-forfeiture condition on life insurance policy available is either for _____ period for cover for the full sum assured or conversion to a paid-up policy.",
+    "options": {
+      "A": "a shorter",
+      "B": "an increased",
+      "C": "five years shorter",
+      "D": "five years longer"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 97,
+    "question": "If an investment-linked policyholder decides to surrender the policy in the first 3 years, the policyholder",
+    "options": {
+      "A": "will lose a very small insurance fee as the premium allocation charges in this scheme are very low.",
+      "B": "will not lose anything as the premium allocated is invested into the investment.",
+      "C": "will not lose anything as the premium is considered capital guaranteed if the policy is discontinued.",
+      "D": "will lose a great deal as the premium allocation charges in this scheme is frontloaded."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 98,
+    "question": "An insurer will _____ of the true age if the life insured is found to be less than the age declared.",
+    "options": {
+      "A": "reduce the premium and refunds over payments",
+      "B": "reduce the period of coverage in accordance with the true age",
+      "C": "increase the premiums and recover the short-payments",
+      "D": "extend the period of insurance and vary the premium"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 99,
+    "question": "_____ insurance is the earliest and simplest form of life insurance for a fixed term and not permanent.",
+    "options": {
+      "A": "Term",
+      "B": "Whole life",
+      "C": "Endowment",
+      "D": "Investment-linked"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 100,
+    "question": "Which statement is NOT correct concerning a rider.",
+    "options": {
+      "A": "It provides bonus for customer.",
+      "B": "It is an additional coverage at customer’s choice.",
+      "C": "It supplements a basic policy with additional coverage.",
+      "D": "It includes additional benefits at an extra cost on top of basic premium."
     },
     "answer": ""
   }
