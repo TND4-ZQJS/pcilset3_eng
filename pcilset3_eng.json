@@ -12,7 +12,7 @@
   },
   {
     "questionNumber": 2,
-    "question": "An individual will benefit from as a result of putting aside funds for old age after buying life insurance.",
+    "question": "An individual will benefit from __________ as a result of putting aside funds for old age after buying life insurance.",
     "options": {
       "A": "long life",
       "B": "good health",
@@ -144,7 +144,7 @@
   },
   {
     "questionNumber": 14,
-    "question": "An insured is not required to disclose any fact that if the absence of any specific questions in proposal form.",
+    "question": "An insured is not required to disclose any fact that ________ if the absence of any specific questions in proposal form.",
     "options": {
       "A": "increases the risk to the insurer",
       "B": "diminishes the risk to the insurer",
@@ -562,7 +562,7 @@
   },
   {
     "questionNumber": 52,
-    "question": "_____ is a type of fixed income securities",
+    "question": "__________ is a type of fixed income securities",
     "options": {
       "A": "Stocks",
       "B": "Warrant Shares",
@@ -573,7 +573,7 @@
   },
   {
     "questionNumber": 53,
-    "question": "“The investor may convert investment from a fixed interest loan to being part-owner who is then entitled to a share of the company’s profit through dividends declared.” This refers to _____ stocks.",
+    "question": "“The investor may convert investment from a fixed interest loan to being part-owner who is then entitled to a share of the company’s profit through dividends declared.” This refers to __________ stocks.",
     "options": {
       "A": "Convertible",
       "B": "Debenture",
@@ -661,7 +661,7 @@
   },
   {
     "questionNumber": 61,
-    "question": "Policy owners of an investment-linked policy have the right to increase the sum assured, subject to underwriting approval.",
+    "question": "Policy owners of an investment-linked policy have the right to increase the sum assured __________, subject to underwriting approval.",
     "options": {
       "A": "without requiring a medical check-up",
       "B": "with a corresponding increase in annual premium",
@@ -771,7 +771,7 @@
   },
   {
     "questionNumber": 71,
-    "question": "In respect of Customer Due Diligence under the Anti Money Laundering and Counter Financing of Terrorism compliance guidelines, insurers must ________.",
+    "question": "In respect of Customer Due Diligence under the Anti Money Laundering and Counter Financing of Terrorism compliance guidelines, insurers must __________.",
     "options": {
       "A": "submit a report on any suspicious transaction to BNM.",
       "B": "report all cash transactions exceeding RM50,000 to BNM.",
@@ -837,7 +837,7 @@
   },
   {
     "questionNumber": 77,
-    "question": "Insurance agencies in Malaysia are created only through appointment by",
+    "question": "Insurance agencies in Malaysia are created only through appointment by ________",
     "options": {
       "A": "a verbal agreement",
       "B": "an express agreement",
@@ -1079,7 +1079,7 @@
   },
   {
     "questionNumber": 99,
-    "question": "_____ insurance is the earliest and simplest form of life insurance for a fixed term and not permanent.",
+    "question": "__________ insurance is the earliest and simplest form of life insurance for a fixed term and not permanent.",
     "options": {
       "A": "Term",
       "B": "Whole life",
